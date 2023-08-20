@@ -14,6 +14,7 @@ public class TestGit {
         String test = "test";
         String test2 = "test2";
         String alvin = "test commit";
+        String alvin2 = "alvin1";
     }
 
 }
