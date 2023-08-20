@@ -11,6 +11,7 @@ public class TestGit {
     public void testForMyself(){
         String init = "首次提交";
         String second = "test commit";
+        String test = "test";
     }
 
 }
